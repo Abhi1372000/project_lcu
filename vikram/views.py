@@ -4,4 +4,4 @@ from django.shortcuts import render
 from django.http import HttpResponse
 
 def first_vik(request):
-    return HttpResponse('Hi good morning')
+    return HttpResponse('Hi good morning, The eagle is comming')
